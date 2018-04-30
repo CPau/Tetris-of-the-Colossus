@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 16d85f230da18354ebc16d45a2299d1b
+timeCreated: 1524512674
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera_fin
+    100002: colosse_tete
+    100004: ctrl_colosse_corps
+    100006: ctrl_colosse_tete
+    100008: //RootNode
+    100010: NEW_GAME
+    100012: QUIT
+    100014: RESUME
+    400000: Camera_fin
+    400002: colosse_tete
+    400004: ctrl_colosse_corps
+    400006: ctrl_colosse_tete
+    400008: //RootNode
+    400010: NEW_GAME
+    400012: QUIT
+    400014: RESUME
+    2000000: Camera_fin
+    2100000: No Name
+    2100002: module_carre_NB
+    2100004: module_L_NB
+    2100006: module_barre_NB
+    2100008: module_te_NB
+    2100010: module_biais_NB
+    2300000: colosse_tete
+    2300002: NEW_GAME
+    2300004: QUIT
+    2300006: RESUME
+    3300000: colosse_tete
+    3300002: NEW_GAME
+    3300004: QUIT
+    3300006: RESUME
+    4300000: QUIT
+    4300002: RESUME
+    4300004: NEW_GAME
+    4300006: colosse_tete
+    7400000: Camera_fin|Camera_finAction
+    7400002: Camera_fin|ctrl_colosse_teteAction
+    7400004: ctrl_colosse_tete|Camera_finAction
+    7400006: ctrl_colosse_tete|ctrl_colosse_teteAction
+    7400008: ctrl_colosse_tete|ctrl_colosse_teteAction_end
+    7400010: colosse_tete|Camera_finAction
+    7400012: colosse_tete|ctrl_colosse_teteAction
+    7400014: colosse_tete|ctrl_colosse_teteAction_end
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
