@@ -21,6 +21,9 @@ For those of us who are into a challenge! This mode has a timer on the blocks an
 - Left click to go forward
 - Right click to confirm block position
 
+## Builds:
+Builds for Linux, Windows or Mac are on [Itch.io](https://elmeri.itch.io/tetris-of-the-colossus)
+
 -----
 
 # Licenses
